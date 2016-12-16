@@ -1,0 +1,2 @@
+#占领区编号      地图编号       top_x       top_y       under_x       under_y       left_x	left_y       right_x       right_y
+1        vkfz       102      119      111      197      68      156      146      160

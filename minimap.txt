@@ -1,0 +1,140 @@
+#这是小地图匹配文件,乱改就看不到小地图了哦:)
+v001    100
+v002	101
+v003	102
+v004	103
+v005	104
+v006	105
+v007	106
+v008	107
+v009    108
+v010    109
+v011    110
+vkinghome 111
+v001b   112
+vbinghuodao 113
+vygfx   114
+vslzd   115
+vhl     117
+vtf     118
+vkfz    119
+vtjzc   120
+
+jsd1    200
+jsd2    201
+jsd3    202
+jsd4    203
+jsd5    204
+
+wgd1    210
+wgd2    211
+wgd3    212
+wgd4    213
+wgd5    214
+wgd6    215
+
+wmsm1   220
+wmsm2   221
+wmsm3   222
+wmsm4   223
+
+zuma1   230
+zuma2   231
+zuma3   232
+zuma4   233
+zuma5   234
+zuma6   235
+
+zhudong1 240
+zhudong2 241
+zhudong3 242
+zhudong4 243
+zhudong5 244
+
+fengmo1  250
+fengmo2  251
+fengmo3  252
+fengmo4  253
+
+niumo1 260
+niumo2 261
+niumo3 262
+niumo4 263
+niumo5 264
+
+smzc 268
+
+chiyue1 270
+chiyue2 271
+chiyue3 272
+chiyue4 273
+
+dyry1 280
+dyry2 281
+dyry3 282
+dyry4 283
+
+nmfb 290
+mmfb 291
+mnfb 292
+yyfb 293
+jlfb 294
+hdfb 295
+
+bfxy1 300
+bfxy2 301
+bfxy3 302
+bfxy4 303
+
+bosstz 310
+
+qngm1 320
+qngm2 321
+qngm3 322
+qngm4 323
+
+yxsd 328
+guaji 329
+
+hund1 330
+hund2 331
+hund3 332
+hund4 333
+
+emgc1 340
+emgc2 341
+emgc3 342
+
+v02 343
+tmd1 344
+tmd2 345
+
+ymsy 346
+v22 347
+hhfb 348
+huiyuan 349
+
+swxc1 350
+swxc2 351
+swxc3 352
+swxc4 353
+qlsd  354
+
+zzzd1 360
+zzzd2 361
+zzzd3 362
+zzzd4 363
+
+qshl1 370
+qshl2 371
+qshl3 372
+qshl4 373
+
+ygsy1 380
+ygsy2 381
+ygsy3 382
+ygsy4 383
+zssd1 385
+zssd2 386
+zssd3 387
+zssd4 388

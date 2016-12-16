@@ -1,0 +1,755 @@
+﻿#默认名称               脚本文件		商店配置	地图编号  	坐标X  坐标Y  	外形    直接传送点ID  系统
+#跨服使者		npc.kuafuzhan			kong.csv	xinshou	80	122	3007 0
+#跨服接待员		npc.kuafujiedai			kong.csv	xinshou	82	124	3007 0
+#银杏山谷b
+铁匠铺老板		npc.xinshou.tiejiang	wuqi.csv 	xinshou 		94 	111	3002 	1011	shortname(武器)
+仓库管理员  		npc.xinshou.kezhan	kong.csv 	xinshou 		106 	119	3005 	1012	shortname(仓库)
+药店老板		npc.xinshou.yaodian	yaodian.csv 	xinshou 	        63	116	3009 	1013	shortname(药店)
+装备店老板		npc.xinshou.zhuangbei	zhuangbei.csv 	xinshou 		56 	147	3001 	1014	shortname(装备)
+杂货铺老板		npc.xinshou.zahuo	zahuo.csv 	xinshou 	        77 	99	3003 	1015	shortname(杂货)
+云天河			npc.task.n001		kong.csv	xinshou		82	111	3006	1016
+元霜			npc.task.n002		kong.csv	xinshou		70	85	3016	1017
+蒙老太			npc.task.n003		kong.csv	xinshou		71      66	3001	1018
+慕容仲伯		npc.task.n004		kong.csv	xinshou		75	47	3003	1019
+慕容俊秋		npc.task.n005		kong.csv	xinshou		50	42	3011	1020
+地图传送员		npc.dituyidong		kong.csv 	xinshou		85 	122	3004 	1021	shortname(传送员)
+
+#云霄城
+铁匠铺老板		npc.biqi.tiejiang	wuqi.csv 	v002 		105 	191	3002 	1100	shortname(武器)
+仓库管理员  		npc.biqi.kezhan		kong.csv 	v002 		76 	188	3005 	1101	shortname(仓库)
+药店老板		npc.biqi.yaodian	yaodian.csv 	v002 		87 	177	3009 	1102	shortname(药店)
+装备店老板		npc.biqi.zhuangbei	zhuangbei.csv 	v002 		56 	164	3001 	1103	shortname(装备)
+杂货铺老板		npc.biqi.zahuo		zahuo.csv 	v002 		110 	144	3003 	1104	shortname(杂货)
+书店老板		npc.biqi.shudian	shudian.csv 	v002 		79 	118	3008 	1105	shortname(书店)
+秦沉言			npc.task.n006		kong.csv	v002		155	205	3018	1106
+叶蓉			npc.task.n007		kong.csv	v002		70	154	3001	1107
+南云			npc.task.n008		kong.csv	v002		107	130	3019	1108
+冰柏			npc.task.n009		kong.csv	v002		132	106	3018	1109
+依青			npc.task.n010		kong.csv	v002		163     72	3013	1110
+贺承念			npc.task.n011		kong.csv	v002		87	89	3018	1111
+上月空			npc.task.n015		kong.csv	v002		114	161	3004	1112
+秦妍			npc.task.n016		kong.csv	v002		59	108	3005	1113
+南宫翔冰		npc.task.n017		kong.csv	v002		14	73	3004	1114
+地图传送员		npc.dituyidong		kong.csv 	v002 		74 	142	3004 	1115	shortname(传送)
+王城争霸管理员		npc.kingwar		kong.csv 	v002		112	84	3017    1116    shortname(王城争霸)
+王城管理员		npc.kinghom		kong.csv 	kinghome	19	18	3017    0       shortname(王城管理)
+百花仙子  		npc.richang3		kong.csv 	v002 		53 	131	3038 	1118	shortname(采集)
+温泉老板娘		npc.biqi.wenquan	kong.csv 	v002 		50  	93	3039 	1119	shortname(温泉馆)
+护符大师		npc.hufu		kong.csv	v002		74	150	3052	1120    shortname(护符)
+
+
+#行会副本		npc.hhfuben		kong.csv 	v003 		81 	138	3004 	1010	shortname(行会副本)
+
+#土城
+铁匠铺老板		npc.tucheng.tiejiang	wuqi.csv 	v003 		110     73	3002 	1200	shortname(武器)
+仓库管理员  		npc.tucheng.kezhan	kong.csv 	v003 		81      132	3005 	1201	shortname(仓库)
+药店老板		npc.tucheng.yaodian	yaodian.csv 	v003 		116     85	3009 	1202	shortname(药店)
+首饰店老板		npc.tucheng.shoushi	zhuangbei.csv 	v003 		69  	50	3010 	1204	shortname(首饰)
+防具店老板		npc.tucheng.zhuangbei	zhuangbei.csv 	v003 		95  	56	3001 	1205	shortname(防具)
+杂货铺老板		npc.tucheng.zahuo	zahuo.csv 	v003 		128 	92	3003 	1206	shortname(杂货)
+苍昊云			npc.task.n023		kong.csv	v003		134	121	3004	1207
+乔迎			npc.task.n024		kong.csv	v003		124	158	3019	1208
+楚时云			npc.task.n025		kong.csv	v003		31	64	3013	1209
+路驰			npc.task.n026		kong.csv	v003		40	23	3011	1210
+以寒			npc.task.n027		kong.csv	v003		69	94	3016	1211
+地图传送员		npc.dituyidong		kong.csv 	v003 		81 	101	3004 	1212	shortname(传送)
+副本使者		npc.fuben		kong.csv 	v003 		99 	122	3027 	1214	shortname(副本)
+伏魔使者		npc.richang		kong.csv 	v003 		65  	107	3024 	1215	shortname(勋章)
+赏金猎人		npc.richang2		kong.csv 	v003 		117 	104	3019 	1216	shortname(赏金)
+#BOSS挑战		npc.renwu.bosstz	kong.csv 	v003		113	108	3018	1217	shortname(BOSS)
+通天塔使者		npc.zhenmota		kong.csv 	v003 		108 	113	3013 	1218	shortname(通天塔)
+火堆			npc.huodui		kong.csv 	v003 		97 	100	3020 	1219	shortname(火堆)
+练级使者		npc.mijing		kong.csv 	v003 		62 	125	3018 	1220	shortname(练级场)
+夏镖头			npc.tucheng.biaoshi	kong.csv 	v003 		47  	107	3027 	1221	shortname(押镖)
+官职系统		npc.renwu.guanzhi	kong.csv 	v003 		98  	71	3027 	1222	shortname(官职)
+神器使者		npc.jfsz		kong.csv 	v003 		128  	102	3040 	1223	shortname(神器)
+福利礼官		npc.liguan		kong.csv 	v003 		85 	111	3025 	1224	shortname(礼官)
+套装使者		npc.nwsz		kong.csv	v003			90	88	3039		1231 shortname(套装)
+裁决使者		npc.shilian		kong.csv	v003		104	117	3012	1229    shortname(裁决)
+
+镇魔使者		npc.zhenmota3  	kong.csv	v003		101	82	3017    1225	shortname(镇魔塔)
+饰品大师		npc.yupei		kong.csv 	v003 		113  	108	3010 	1234	shortname(玉佩)
+守卫试炼使者 	        npc.tucheng.fengml      kong.csv 	v003 		105 	86	3051 	1235
+
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml1		42	71	3051 	1236
+
+#王城之主		npc.renwu.czdx		kong.csv 	v003 		87  	90	3046 	1226	shortname(城主雕像)
+
+#活动使者		npc.huodong		kong.csv 	v003 		114 	95	3004 	1227	shortname(活动)
+灵羽使者		npc.chibang		kong.csv 	v003 		114 	94	3038 	1228	shortname(翅膀)
+
+
+
+武林争霸		npc.renwu.wlzb		kong.csv 	v003		57	62	3017 	1230	shortname(武林争霸)
+争霸使者		npc.renwu.zbsz		kong.csv	wlzb		31	39	3017    0
+
+#神魔战场		npc.zhanchang		kong.csv	v003		23	96	3018    1232	shortname(神魔战场)
+
+药店老板		npc.tucheng.yaodian	yaodian.csv 	v010 		49  	40	3009 	1250	shortname(药店)
+装备店老板		npc.biqi.zhuangbei	zhuangbei.csv 	v010 		36 	22	3001 	1251	shortname(装备)
+铁匠铺老板		npc.tucheng.tiejiang	wuqi.csv 	v010 		23      25	3002 	1252	shortname(武器)
+仓库管理员  		npc.tucheng.kezhan	kong.csv 	v010 		17      36	3005 	1253	shortname(仓库)
+地图传送员		npc.dituyidong		kong.csv 	v010 		29 	47	3004 	1254	shortname(传送)
+
+
+药店老板		npc.tucheng.yaodian	yaodian.csv 	v011 		33  	26	3009 	1260	shortname(药店)
+仓库管理员  		npc.tucheng.kezhan	kong.csv 	v011 		18      30	3005 	1261	shortname(仓库)
+地图传送员		npc.dituyidong		kong.csv 	v011 		43 	44	3004 	1262	shortname(传送)
+
+
+
+药店老板		npc.renwu.yaodian2	yaodian.csv 	smzc 		113  	26	3009 	0	shortname(魔族药店)
+药店老板		npc.renwu.yaodian1	yaodian.csv 	smzc 		23  	118	3009 	0	shortname(神族药店)
+
+矿石铺红老板         	npc.tjkuang             kong.csv 	tjzc		107	16	3040 	0
+矿石铺蓝老板         	npc.tjkuang             kong.csv 	tjzc		9	154	3040 	0
+
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml1		42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml2		42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml3		42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml4		42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml5		42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml6		42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml7		42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml8		42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml9		42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml10	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml11	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml12	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml13	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml14	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml15	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml16	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml17	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml18	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml19	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml20	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml21	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml22	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml23	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml24	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml25	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml26	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml27	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml28	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml29	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml30	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml31	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml32	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml33	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml34	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml35	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml36	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml37	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml38	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml39	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml40	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml41	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml42	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml43	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml44	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml45	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml46	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml47	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml48	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml49	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml50	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml51	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml52	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml53	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml54	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml55	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml56	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml57	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml58	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml59	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml60	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml61	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml62	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml63	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml64	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml65	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml66	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml67	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml68	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml69	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml70	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml71	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml72	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml73	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml74	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml75	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml76	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml77	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml78	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml79	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml80	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml81	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml82	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml83	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml84	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml85	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml86	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml87	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml88	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml89	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml90	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml91	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml92	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml93	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml94	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml95	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml96	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml97	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml98	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml99	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml100	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml101	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml102	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml103	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml104	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml105	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml106	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml107	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml108	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml109	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml110	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml111	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml112	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml113	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml114	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml115	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml116	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml117	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml118	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml119	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml120	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml121	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml122	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml123	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml124	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml125	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml126	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml127	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml128	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml129	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml130	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml131	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml132	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml133	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml134	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml135	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml136	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml137	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml138	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml139	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml140	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml141	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml142	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml143	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml144	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml145	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml146	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml147	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml148	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml149	42	71	3051 	3037
+图腾试炼使者     	npc.renwu.fmsz          kong.csv 	fengml150	42	71	3051 	3037
+
+
+封印使者	npc.hgcs	kong.csv 	wmsm3 143 156	3018 0	shortname(封印使者)
+封印使者	npc.hgcs	kong.csv 	wgd5 219 187	3018 0	shortname(封印使者)
+封印使者	npc.hgcs	kong.csv 	zhudong4 149 43	3018 0	shortname(封印使者)
+封印使者	npc.hgcs	kong.csv 	zuma5 45 17	3018 0	shortname(封印使者)
+封印使者	npc.hgcs	kong.csv 	niumo4  145 149	3018 0	shortname(封印使者)
+
+
+炼狱使者	npc.renwu.lianyu		kong.csv 	lianyu1 	114 	30	3004 	0	shortname(炼狱使者)
+炼狱使者	npc.renwu.lianyu		kong.csv 	lianyu2 	270 	258	3004 	0	shortname(炼狱使者)
+炼狱使者	npc.renwu.lianyu		kong.csv 	lianyu3 	 91 	37	3004 	0	shortname(炼狱使者)
+炼狱使者	npc.renwu.lianyu		kong.csv 	lianyu4 	 44 	33	3004 	0	shortname(炼狱使者)
+炼狱使者	npc.renwu.lianyu		kong.csv 	lianyu5 	 34 	33	3004 	0	shortname(炼狱使者)
+炼狱使者	npc.renwu.lianyu		kong.csv 	lianyu6 	151 	154	3004 	0	shortname(炼狱使者)
+炼狱使者	npc.renwu.lianyu		kong.csv 	lianyu7 	 30 	222	3004 	0	shortname(炼狱使者)
+炼狱使者	npc.renwu.lianyu		kong.csv 	lianyu8 	156 	38	3004 	0	shortname(炼狱使者)
+炼狱使者	npc.renwu.lianyu		kong.csv 	lianyu9 	 27 	162	3004 	0	shortname(炼狱使者)
+
+镇魔塔使者  npc.slyy  kong.csv  zzmta1 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmta2 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmta3 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmta4 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmta5 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmta6 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmta7 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmta8 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmta9 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmta10 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmta11 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmta12 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtb1 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtb2 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtb3 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtb4 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtb5 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtb6 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtb7 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtb8 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtb9 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtb10 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtb11 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtb12 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtc1 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtc2 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtc3 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtc4 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtc5 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtc6 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtc7 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtc8 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtc9 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtc10 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtc11 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtc12 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtd1 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtd2 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtd3 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtd4 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtd5 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtd6 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtd7 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtd8 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtd9 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtd10 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtd11 27 34 3017 0
+镇魔塔使者  npc.slyy  kong.csv  zzmtd12 27 34 3017 0
+
+#裁决之地
+裁决之地使者  npc.slsz  kong.csv  slzd1   22 	43 	3012 	0
+裁决之地使者  npc.slsz  kong.csv  slzd2   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd2   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd3   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd4   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd5   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd6   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd7   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd8   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd9    22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd10   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd11   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd12  22 	43 	3012 	0
+裁决之地使者  npc.slsz  kong.csv  slzd13  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd14  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd15  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd16  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd17  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd18  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd19  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd20  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd21   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd22   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd23   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd24  22 	43 	3012 	0
+裁决之地使者  npc.slsz  kong.csv  slzd25  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd26  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd27  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd28  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd29  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd30  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd31  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd32  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd33   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd34   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd35   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd36  22 	43 	3012 	0
+裁决之地使者  npc.slsz  kong.csv  slzd37  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd38  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd39  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd40  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd41  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd42  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd43  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd44  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd45   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd46   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd47   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd48  22 	43 	3012 	0
+裁决之地使者  npc.slsz  kong.csv  slzd49  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd50  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd51  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd52  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd53  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd54  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd55  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd56  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd57   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd58   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd59   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd60  22 	43 	3012 	0
+裁决之地使者  npc.slsz  kong.csv  slzd61  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd62  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd63  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd64  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd65  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd66  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd67  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd68  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd69   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd70   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd71   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd72  22 	43 	3012 	0
+裁决之地使者  npc.slsz  kong.csv  slzd73  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd74  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd75  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd76  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd77  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd78  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd79  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd80  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd81   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd82   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd83   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd84  22 	43 	3012 	0
+裁决之地使者  npc.slsz  kong.csv  slzd85  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd86  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd87  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd88  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd89  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd90  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd91  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd92  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd93   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd94   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd95   22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd96  22 	43 	3012 	0
+裁决之地使者  npc.slsz  kong.csv  slzd97  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd98  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd99  22 	43 	3012	0
+裁决之地使者  npc.slsz  kong.csv  slzd100 22 	43 	3012	0
+
+
+#僵尸洞穴
+司弈			npc.task.n012		kong.csv	jsd1		32	208	3012	1301
+司超			npc.task.n013		kong.csv	jsd1		78	195	3009	1302
+司仕			npc.task.n014		kong.csv	jsd1		118	199	3011	1303
+
+#奴玛森林
+裴伊楚			npc.task.n018		kong.csv	v006		25	67	3010	1401
+苍神薰			npc.task.n019		kong.csv	v006		26	31	3012	1402
+
+#奴玛寺庙
+司徒修			npc.task.n020		kong.csv	wmsm1		268	258	3012	1403
+司徒伊			npc.task.n021		kong.csv	wmsm1		236	223	3009	1404
+司徒智			npc.task.n022		kong.csv	wmsm1		250	184	3011	1405
+
+#荒漠
+祝之燃			npc.task.n028		kong.csv	v007		40	57	3001	1406
+地图传送员		npc.dituyidong		kong.csv 	v007 		11	8	3004 	1010	shortname(传送员)
+
+#恶人村
+地图传送员		npc.dituyidong		kong.csv 	v004 		39	62	3004 	1010	shortname(传送员)
+
+#邪恶洞穴
+左丘东			npc.task.n029		kong.csv	wgd1		351	321	3015	1407
+左丘南			npc.task.n030		kong.csv	wgd1		306	322	3011	1408
+左丘西			npc.task.n031		kong.csv	wgd1		253	326	3008	1409
+
+#王城
+张振海			npc.task.n032		kong.csv	v005		77	137	3018	1410
+
+#猛犸森林
+白问锦			npc.task.n034		kong.csv	v008		30	38	3013	1412
+地图传送员		npc.dituyidong		kong.csv 	v008 		45	71	3004 	1010	shortname(传送员)
+
+
+#猛犸寺庙
+安陵			npc.task.n035		kong.csv	zuma1		39	212	3011	1413
+安平			npc.task.n036		kong.csv	zuma1		70	177	3012	1414
+安期			npc.task.n037		kong.csv	zuma1		99	155	3015	1415
+
+
+#猪妖洞
+禹峰			npc.task.n038		kong.csv	zhudong1	32	220	3012	1416
+禹言			npc.task.n039		kong.csv	zhudong1	68	184	3011	1417
+禹诺			npc.task.n040		kong.csv	zhudong1	97	141	3009	1418
+
+#蛮牛洞
+韩飞			npc.task.n012		kong.csv	niumo1		43	126	3012	1419
+韩士			npc.task.n013		kong.csv	niumo1		29	93	3009	1420
+韩耀			npc.task.n014		kong.csv	niumo1		26	56	3011	1421
+
+#妖月峡谷
+凌宇			npc.task.n029		kong.csv	chiyue1		231	74	3012	1422
+凌峰			npc.task.n030		kong.csv	chiyue1		209	96	3009	1423
+凌戟			npc.task.n031		kong.csv	chiyue1		183	120	3011	1424
+凌云			npc.task.n044		kong.csv	chiyue1		158	140	3042	1428
+凌战			npc.task.n045		kong.csv	chiyue1		133	118	3027	1429
+
+#孤月岛
+孤月岛主		npc.task.n041		kong.csv	v010		42	51	3011	1425
+林奕莲			npc.task.n043		kong.csv	v010		44	74	3005	1427
+
+#白云观
+白云道长		npc.task.n042		kong.csv	v011		41	37	3011	1426
+
+#巨灵石窟
+探险队长		npc.task.n046		kong.csv	jlsk1		35	78	3017	1430
+胆小的车夫		npc.task.n047		kong.csv	jlsk1		70	79	3008	1431
+蒋神算			npc.task.n048		kong.csv	jlsk1		103	65	3041	1432
+王老爷			npc.task.n049		kong.csv	jlsk1		151	65	3025	1433
+王强			npc.task.n050		kong.csv	jlsk1    	190	69	3027	1434
+
+#混沌之门
+许烦了		        npc.task.n051		kong.csv	hund1		210	206	3024	1435
+不辣		        npc.task.n052		kong.csv	hund1		152	215	3018	1436
+小译			npc.task.n053		kong.csv	hund1		115	200	3017	1437
+迷龙			npc.task.n054		kong.csv	hund1		92	147	3011	1438
+豆豆			npc.task.n055		kong.csv	hund1    	79	99	3006	1439
+
+#冰封雪域
+贺英		        npc.task.n056		kong.csv	bfxy1		203	70	3027	1440
+美美		        npc.task.n057		kong.csv	bfxy1		229	111	3010	1441
+聂虎			npc.task.n058		kong.csv	bfxy1		187	153	3012	1442
+元龙			npc.task.n059		kong.csv	bfxy1		160	133	3014	1443
+韩啸			npc.task.n060		kong.csv	bfxy1    	156	96	3015	1444
+
+#烈炎魔窟
+石铁		        npc.task.n061		kong.csv	dyry1		24	220	3024	1445
+南宫翔		        npc.task.n062		kong.csv	dyry1		51	218	3042	1446
+斩铁			npc.task.n063		kong.csv	dyry1		97	205	3019	1447
+释拳			npc.task.n064		kong.csv	dyry1   	138	191	3036	1448
+铁猛			npc.task.n065		kong.csv	dyry1    	152	161	3027	1449
+
+#落日刑场
+邢威		        npc.task.n066		kong.csv	swxc1		27	223	3024	1450
+苏珊娜		        npc.task.n067		kong.csv	swxc1		28	192	3016	1451
+郑虎			npc.task.n068		kong.csv	swxc1		28	157	3015	1452
+何欢			npc.task.n069		kong.csv	swxc1   	53	132	3011	1453
+何惧			npc.task.n070		kong.csv	swxc1    	95	129	3012	1454
+
+#神庙祭坛
+巫祝		        npc.task.n071		kong.csv	zzzd1		42	222	3013	1455
+李三山		        npc.task.n072		kong.csv	zzzd1		40	188	3015	1456
+向齐			npc.task.n073		kong.csv	zzzd1		74	160	3017	1457
+上官涛			npc.task.n074		kong.csv	zzzd1   	115	170	3018	1458
+盖聂			npc.task.n075		kong.csv	zzzd1    	153	205	3024	1459
+
+#通天塔
+通天塔使者  npc.zmtg2  kong.csv  zzmt1   30 30 3011 	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt2   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt2   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt3   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt4   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt5   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt6   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt7   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt8   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt9    30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt10   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt11   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt12  30 30 3011 	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt13  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt14  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt15  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt16  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt17  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt18  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt19  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt20  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt21   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt22   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt23   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt24  30 30 3011 	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt25  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt26  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt27  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt28  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt29  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt30  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt31  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt32  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt33   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt34   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt35   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt36  30 30 3011 	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt37  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt38  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt39  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt40  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt41  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt42  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt43  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt44  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt45   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt46   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt47   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt48  30 30 3011 	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt49  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt50  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt51  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt52  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt53  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt54  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt55  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt56  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt57   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt58   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt59   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt60  30 30 3011 	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt61  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt62  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt63  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt64  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt65  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt66  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt67  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt68  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt69   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt70   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt71   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt72  30 30 3011 	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt73  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt74  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt75  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt76  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt77  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt78  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt79  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt80  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt81   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt82   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt83   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt84  30 30 3011 	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt85  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt86  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt87  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt88  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt89  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt90  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt91  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt92  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt93   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt94   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt95   30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt96  30 30 3011 	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt97  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt98  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt99  30 30 3011	0
+通天塔使者  npc.zmtg2  kong.csv  zzmt100 30 30 3011	0
+
+#镇魔塔
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt1   30 30 3011 	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt2   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt2   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt3   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt4   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt5   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt6   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt7   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt8   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt9    30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt10   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt11   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt12  30 30 3011 	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt13  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt14  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt15  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt16  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt17  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt18  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt19  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt20  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt21   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt22   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt23   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt24  30 30 3011 	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt25  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt26  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt27  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt28  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt29  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt30  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt31  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt32  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt33   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt34   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt35   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt36  30 30 3011 	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt37  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt38  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt39  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt40  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt41  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt42  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt43  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt44  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt45   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt46   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt47   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt48  30 30 3011 	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt49  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt50  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt51  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt52  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt53  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt54  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt55  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt56  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt57   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt58   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt59   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt60  30 30 3011 	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt61  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt62  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt63  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt64  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt65  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt66  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt67  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt68  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt69   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt70   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt71   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt72  30 30 3011 	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt73  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt74  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt75  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt76  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt77  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt78  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt79  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt80  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt81   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt82   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt83   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt84  30 30 3011 	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt85  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt86  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt87  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt88  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt89  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt90  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt91  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt92  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt93   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt94   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt95   30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt96  30 30 3011 	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt97  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt98  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt99  30 30 3011	0
+镇魔塔使者  npc.zmtg23  kong.csv  mtmt100 30 30 3011	0
+
+#皇城宝藏
+地图传送员		npc.dituyidong		kong.csv 	hcbz 		41 	138	3004 	1001	shortname(传送)
+
+#远古废墟
+地图传送员		npc.dituyidong		kong.csv 	ygfx 		71 	153	3004 	1001	shortname(传送)
+
+#冰火岛 
+地图传送员		npc.dituyidong		kong.csv 	binghuodao 		24 	140	3004 	1001	shortname(传送)
+
+#天晶战场
+地图传送员（蓝）		npc.dituyidong		kong.csv 	tjzc 		20 	154	3004 	0	shortname(传送)
+地图传送员（红）		npc.dituyidong		kong.csv 	tjzc 		107 	27	3004 	0	shortname(传送)
+
+#至高城
+地图传送员		npc.kuafu		kong.csv 	vkfz		94	98	3004 	0	shortname(传送员)

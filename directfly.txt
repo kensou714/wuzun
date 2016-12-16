@@ -1,0 +1,1 @@
+﻿#ID        map_name      x      y           end
